@@ -1,6 +1,0 @@
-version: "3.9"
-services:
-  med-data-tool:
-    build: .
-    volumes:
-      - ./data:/app/data
